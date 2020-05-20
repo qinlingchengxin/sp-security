@@ -10,5 +10,8 @@
 
     <modules>
         <module>simple</module>
+        <module>normal</module>
+        <module>withdb</module>
+        <module>authorization</module>
     </modules>
 </project>
